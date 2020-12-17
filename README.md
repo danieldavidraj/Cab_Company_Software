@@ -5,4 +5,4 @@
 * It wont return back to its previous location inorder to save fuel instead will roam around the destination waiting for other bookings nearby.
 <br><br>
 ![Cab Company](Cab_Company.png)
-<center>![Map](map.png)</center>
+![Map](map.png)
