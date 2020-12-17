@@ -1,3 +1,3 @@
 # Cab Company Software
-![Cab Company](/images/Cab Company.png)
-![Map](/images/map.png)
+![Cab Company](Cab_Company.png)
+![Map](/map.png)
